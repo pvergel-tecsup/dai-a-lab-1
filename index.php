@@ -14,6 +14,7 @@ $Nombre = "Pedro";
 <body>
     <header>
         <h1>Laboratorio 1</h1>
+        <h2>Desarrollo de Aplicaciones en Internet</h2>
     </header>
     <nav></nav>
     <aside>
